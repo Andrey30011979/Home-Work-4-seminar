@@ -67,7 +67,7 @@ System.Console.Write("Массив с длиной элементов <= 3: ");
 string[] newStr = CreatNewArrayLessThreeElements(str);
 PrintArray(newStr);
 */
-string[] Array = new string[4] { "Hello", "2", "world", ":-",  };
+string[] Array = new string[4] { "Hello", "2", "world", ":-)",  };
 int count = 0;
 for (int i = 0; i < Array.Length; i++)
 {
